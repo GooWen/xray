@@ -155,12 +155,6 @@
 
 提交误报漏报需求等等请务必先阅读 [https://chaitin.github.io/xray/#/guide/feedback](https://chaitin.github.io/xray/#/guide/feedback)
 
-如有问题可以在 GitHub 提 issue, 也可在下方的讨论组里
-
-1. GitHub issue: https://github.com/chaitin/xray/issues
-1. QQ 群: 717365081
-1. 微信群: 扫描以下二维码加我的个人微信，会把大家拉到 `xray` 官方微信群    
-
-<img src="https://chaitin.github.io/xray/assets/wechat.jpg?_=1" height="200px">
+如有问题可以在 GitHub 提 issue
 
 
